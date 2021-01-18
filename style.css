@@ -2,9 +2,7 @@ body {
     text-align: center;
     background-repeat: no-repeat;
     font-family: 'Pacifico', cursive;
-	background: #3D7EAA;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to top, #FFE47A, #3D7EAA);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to top, #FFE47A, #3D7EAA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 .menu {
     top: 0px;
     z-index: 10;
@@ -77,6 +75,7 @@ img {
 
 html {
     scroll-behavior: smooth;
+    cursor: url(my-mouse-pointer-black.cur), default;
 }
 
 #myfavoritehobby1 {
@@ -214,7 +213,7 @@ background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, F
 	font-family: 'Nerko One', cursive;
 }
 #sp1{
-	color: orange;
+	color:orange;
 	font-size:medium;
 	font-family: 'Nerko One', cursive;
 }
